@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "219793691544",
+    "firebase_url": "https://smartlearningsystem-43f1b.firebaseio.com",
+    "project_id": "smartlearningsystem-43f1b",
+    "storage_bucket": "smartlearningsystem-43f1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219793691544:android:b8f037d86fd93de6",
+        "android_client_info": {
+          "package_name": "com.smartapplication.smartlearningsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219793691544-dppgc1iqu9s4mms8om0ljjfns8kfl5d0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartapplication.smartlearningsystem",
+            "certificate_hash": "2852145145e20ff457b3c422bd9857ba6fd05c50"
+          }
+        },
+        {
+          "client_id": "219793691544-7td6bsqqq4o1l4jhvis49f9d8apqjipt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD24OdZ2pX8BLbIygQCvNAoYJk6-1iO3Gg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219793691544-7td6bsqqq4o1l4jhvis49f9d8apqjipt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
